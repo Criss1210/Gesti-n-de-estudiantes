@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Estructura de Datos\EstudiantesPorAsignatura\EstudiantesPorAsignatura\bin\Debug\EstudiantesPorAsignatura.exe.config
+C:\Users\User\Documents\Estructura de Datos\EstudiantesPorAsignatura\EstudiantesPorAsignatura\bin\Debug\EstudiantesPorAsignatura.exe
+C:\Users\User\Documents\Estructura de Datos\EstudiantesPorAsignatura\EstudiantesPorAsignatura\bin\Debug\EstudiantesPorAsignatura.pdb
+C:\Users\User\Documents\Estructura de Datos\EstudiantesPorAsignatura\EstudiantesPorAsignatura\obj\Debug\EstudiantesPorAsignatura.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Estructura de Datos\EstudiantesPorAsignatura\EstudiantesPorAsignatura\obj\Debug\EstudiantesPorAsignatura.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Estructura de Datos\EstudiantesPorAsignatura\EstudiantesPorAsignatura\obj\Debug\EstudiantesPorAsignatura.exe
+C:\Users\User\Documents\Estructura de Datos\EstudiantesPorAsignatura\EstudiantesPorAsignatura\obj\Debug\EstudiantesPorAsignatura.pdb
